@@ -1,0 +1,19 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.4) 70%), url(../../images/key3.jpg);
+	color: white;
+	padding: 170px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 45px;
+}
+
+.banner h2 {
+	font-size: 25px;
+	font-weight: none,
+	opacity: 0.6;
+	margin-bottom: 30px;
+
+}
